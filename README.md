@@ -20,4 +20,5 @@ By the end of this project, you will learn:
 To get started with this project, clone this repository and import into Android Studio.
 
 ```bash
-git clone https://github.com/yourusername/artwork-display-app.git
+git clone https://github.com/AbdulGimbul/ComposeBasicArtworkApp.git
+```
