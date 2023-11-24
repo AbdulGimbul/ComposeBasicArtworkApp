@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyArtwork</string>
+
+    <string name="title1">The First Artwork</string>
+    <string name="title2">The Second Artwork</string>
+    <string name="title3">The Third Artwork</string>
+    <string name="title4">The Fourth Artwork</string>
+</resources>
